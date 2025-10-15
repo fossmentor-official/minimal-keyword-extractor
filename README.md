@@ -1,6 +1,6 @@
 # 🧠 Minimal Keyword Extractor (Pure Python + NLTK)
 
-Extract top keywords from text using **TF-IDF**. No heavy ML libraries required.
+Build a system that ingests raw text (documents, articles, tweets) using **TF-IDF**, returns ranked keywords/phrases per document, and exposes the result via a CLI, small web UI, or API. No heavy ML libraries required.
 
 ## Features
 - TF-IDF based keyword extraction
